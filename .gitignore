@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Kubernetes secrets & sensitive files
+*.kubeconfig
+admin.conf
+*.pem
+*.key
+*.crt
+*.token
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
