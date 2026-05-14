@@ -3,6 +3,11 @@
 > A complete, production-grade guide to installing and configuring a Kubernetes cluster on Ubuntu Linux using **kubeadm**.
 
 ---
+###Option 1:  You can use the folder and execute it per order for installation.
+---
+
+###Option 2: you can follow this process down ⬇️
+---
 
 ## 📋 Table of Contents
 
